@@ -1,0 +1,34 @@
+.movieTitle {
+  color: #000;
+  font-size: 1.5rem;
+  text-decoration: none;
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  text-align: center;
+  margin: 1.5rem 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+.movie-img {
+  width: 250px;
+  height: 375px;
+}
+
+.no-poster {
+  width: 250px;
+  height: 375px;
+  background: green;
+  margin: 0 auto;
+}
+
+.btn {
+  background: #c51499 !important;
+}
